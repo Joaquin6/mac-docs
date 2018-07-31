@@ -1,4 +1,4 @@
-[macOS Setup Guide](https://sourabhbajaj.com/mac-setup)
+[macOS Setup Guide](https://joaquinbriceno.com/mac-setup)
 ====================
 
 | branch | status |

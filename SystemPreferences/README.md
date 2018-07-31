@@ -68,7 +68,7 @@ $ killall Dock # Restart the Dock process
 
 **1) Install Homebrew and Homebrew Cask**
 
-Instructions [here](https://sourabhbajaj.com/mac-setup/Homebrew/README.html).
+Instructions [here](https://joaquinbriceno.com/mac-setup/Homebrew/README.html).
 
 **2) Update Homebrew formulae**
 
