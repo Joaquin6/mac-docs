@@ -1,6 +1,6 @@
 # SublimeLinter Settings
 
-~~~
+```
 {
     "user": {
         "debug": false,
@@ -53,4 +53,7 @@
         "wrap_find": true
     }
 }
-~~~
+```
+
+
+
