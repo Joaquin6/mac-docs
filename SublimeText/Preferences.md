@@ -56,5 +56,11 @@ This is an example of User Settings for a basic development but please feel free
 }
 ```
 
+On a macOS you can link your personal JSON file to the proper location sublime is expecting to fins the preference settings file.
+
+```bash
+ln -s ~/jbconfig/sublime/Preferences.sublime-settings.json ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Preferences.sublime-settings
+```
+
 
 
