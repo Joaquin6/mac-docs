@@ -8,4 +8,4 @@ Thank you for all the awesome pages and documentation below that helped set this
 - [Scala IDE Documentation](http://scala-ide.org/docs/user/gettingstarted.html)
 
 # Contributing
-Please feel free to send [Pull Requests](https://github.com/sb2nov/mac-setup/pulls) fixing any mistakes in the book or adding additional information.
+Please feel free to send [Pull Requests](https://github.com/joaquin6/mac-setup/pulls) fixing any mistakes in the book or adding additional information.

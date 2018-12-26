@@ -7,12 +7,12 @@ import urllib2
 
 
 HEADER = """# Contributors
-Thank you everyone that have contributed to creating this awesome guide. Here are the names of a few; for the full list please visit the [Github Contributor page](https://github.com/sb2nov/mac-setup/graphs/contributors).
+Thank you everyone that have contributed to creating this awesome guide. Here are the names of a few; for the full list please visit the [Github Contributor page](https://github.com/joaquin6/mac-setup/graphs/contributors).
 
 """
 
 USER_TEMPLATE = "- [{username}]({url})"
-BASE_URL = "https://api.github.com/repos/sb2nov/mac-setup/contributors?page={0}"
+BASE_URL = "https://api.github.com/repos/joaquin6/mac-setup/contributors?page={0}"
 
 contributors_list = []
 

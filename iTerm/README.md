@@ -22,7 +22,7 @@ Here are some suggested settings you can change or set, **they are all optional*
   >**Note**: Instead of downloading and installing Source Code Pro manually, you can use [Homebrew](https://joaquinbriceno.com/mac-setup/Homebrew/) `brew tap caskroom/fonts && brew cask install font-source-code-pro`
 - If you're using BASH instead of ZSH you can add `export CLICOLOR=1` line to your `~/.bash_profile` file for nice coloring of listings
 
-[![Screen](https://raw.githubusercontent.com/sb2nov/mac-setup/master/assets/Iterm.png)](https://raw.githubusercontent.com/sb2nov/mac-setup/master/assets/Iterm.png)
+[![Screen](https://raw.githubusercontent.com/joaquin6/mac-setup/master/assets/Iterm.png)](https://raw.githubusercontent.com/joaquin6/mac-setup/master/assets/Iterm.png)
 
 ### MacOS shortcuts ⌘←, ⌘→ and ⌥←, ⌥→
 
